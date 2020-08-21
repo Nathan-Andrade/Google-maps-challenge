@@ -5,7 +5,7 @@
  ![](https://img.shields.io/github/languages/count/Nathan-Andrade/Google-maps-challenge?color=%23b5adad) ![](https://img.shields.io/github/languages/top/Nathan-Andrade/Google-maps-challenge?color=%23b5adad) ![](https://img.shields.io/github/repo-size/Nathan-Andrade/Google-maps-challenge?color=%23b5adad) ![](https://img.shields.io/github/last-commit/Nathan-Andrade/Google-maps-challenge?color=%23b5adad)
 
 <h2>:computer: Projeto</h2>
-Store Locator is a project developed in the Google Maps Challenge with Rafy Qazi
+<h3>Store Locator is a project developed in the Google Maps Challenge with Rafy Qazi</h3>
 
 
 ![](https://github.com/Nathan-Andrade/Google-maps-challenge/blob/master/github/home.PNG?raw=true)
